@@ -7,3 +7,9 @@ Project Tools:
 - Monitoring Model with Prometheus and Grafana
 
 Step 1:
+Create and virtual env:
+
+```
+python -m venv kubeflow
+source kubeflow/bin/activate
+```
